@@ -30,3 +30,7 @@ p {
 .btn.btn-ghost {
   @apply shadow-none;
 }
+
+.text-l {
+  font-size: 16px;
+}
